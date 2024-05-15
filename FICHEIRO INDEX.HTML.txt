@@ -1,0 +1,31 @@
+FICHEIRO INDEX.HTML
+
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestão de Drones</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Gestão de Drones</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="pecas.html">Gestão de Peças</a></li>
+                <li><a href="#">Gestão de Montagens</a></li>
+                <li><a href="#">Estatísticas</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Bem-vindo ao Sistema de Gestão de Drones</h2>
+        <p>Selecione uma das opções no menu para começar.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Gestão de Drones</p>
+    </footer>
+</body>
+</html>
